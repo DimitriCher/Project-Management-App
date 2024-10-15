@@ -1,9 +1,11 @@
+import Input from "./Input";
+
 export default function NewProject() {
   return (
     <div>
       <menu>
         <li>
-          <buton>Cancel</buton>
+          <button>Cancel</button>
         </li>
         <li>
           <button>Save</button>
